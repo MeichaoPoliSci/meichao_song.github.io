@@ -1,44 +1,45 @@
 ---
 # Display name
-title: 吳健雄
+title: Meichao Song
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: May-chow Sohng
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Meichao
+last_name: Song
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 📝
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. student in Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of Texas at Austin
+    url: https://liberalarts.utexas.edu/government/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include gender, political communication, public opinion, and political behavior.
+
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:meichao.song@utexas.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/meichao-song-191a51279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
@@ -54,6 +55,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Meichao Song is a Ph.D. student in Political Science at the University of Texas at Austin, specializing in Comparative Politics and American Politics. Her research focuses on the causes and consequences of discrimination and stereotypes against disadvantaged groups—including women—and how these factors shape political behavior among both the mass public and political elites.
