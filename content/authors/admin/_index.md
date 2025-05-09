@@ -3,15 +3,11 @@
 title: Meichao Song
 
 # Name pronunciation (optional)
-name_pronunciation: May-chow Sohng
+name_pronunciation:   
 
 # Full name (for SEO)
 first_name: Meichao
 last_name: Song
-
-# Status emoji
-status:
-  icon: 📝
 
 # Is this the primary user of the site?
 superuser: true
