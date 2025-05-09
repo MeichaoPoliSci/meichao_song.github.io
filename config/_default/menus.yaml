@@ -11,6 +11,3 @@ main:
   - name: Teaching
     url: uses/
     weight: 30
-  - name: CV
-    url: uses/
-    weight: 30
